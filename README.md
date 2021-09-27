@@ -7,7 +7,7 @@ package prueba.pkg1;
 
 /**
  *
- * @author Luis Pedro
+ * @author Jose Monterroso 
  */
 public class datos_envio extends javax.swing.JFrame {
 
